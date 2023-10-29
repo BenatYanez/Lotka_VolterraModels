@@ -2,7 +2,7 @@
 ---
 title: "Making Lotka-Volterra Models"
 author: "Beñat Yañez"
-date: "29/09/2023"
+date: "10/10/2023"
 output: html_document
 ---
 
