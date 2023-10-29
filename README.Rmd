@@ -1,0 +1,22 @@
+# PopulationModelling
+---
+title: "Making Lotka-Volterra Models"
+author: "Beñat Yañez"
+date: "29/09/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+## Goals for this practical
+
+* #### Build a predator-prey population model
+* #### Build a predator-prey population model with logistic growth
+* #### Add the concept of functional response to the model
+* #### Create a 3 species competition model and look at the effect of different niche overlaps
+
+***
